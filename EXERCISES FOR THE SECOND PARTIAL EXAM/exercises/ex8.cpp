@@ -1,0 +1,53 @@
+//
+// Created by win11pro on 1/10/2025.
+//
+#include<iostream>
+using namespace std;
+
+void fillMatrix(int matrix[100][100], int m, int n) {
+    for (int i = 0; i < m; i++) {
+        for (int j = 0; j < n; j++) {
+            cin >> matrix[i][j];
+        }
+    }
+}
+
+void printMatrix(int matrix[100][100], int m, int n) {
+    for (int i = 0; i < m; i++) {
+        for (int j = 0; j < n; j++) {
+            cout << matrix[i][j] << " ";
+        }
+        cout << endl;
+    }
+}
+int main() {
+    int m, n;
+    int matrix[100][100];
+    cin >> m >> n;
+    fillMatrix(matrix, m, n);
+    for (int i = 0; i < m; i++) {
+        int leftSum = 0, rightSum = 0;
+        if(n%2 == 0) {
+            for (int j = 0; j < n/2; j++) {
+                leftSum += matrix[i][j];
+            }
+            for(int j = n/2; j < n; j++) {
+                rightSum += matrix[i][j];
+            }
+            int diff = abs(leftSum - rightSum);
+            matrix[i][n/2-1] = diff;
+            matrix[i][n/2] = diff;
+        } else {
+            for(int j = 0; j <= n/2; j++) {
+                leftSum += matrix[i][j];
+            }
+            for(int j = n/2; j < n; j++) {
+                rightSum += matrix[i][j];
+            }
+            int diff = abs(leftSum - rightSum);
+            matrix[i][n/2] = diff;
+        }
+    }
+    printMatrix(matrix, m, n);
+    return 0;
+}

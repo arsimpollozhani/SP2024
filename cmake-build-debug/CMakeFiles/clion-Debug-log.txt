@@ -1,0 +1,1005 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\UNI\CODEBASE\SP2024 -B D:\UNI\CODEBASE\SP2024\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (4.0s)
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    second_partial/test.cpp
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  Cannot find source file:
+
+    second_partial/test2.cpp
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_1.cpp
+
+
+CMake Error at CMakeLists.txt:10 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_2.cpp
+
+
+CMake Error at CMakeLists.txt:11 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_3.cpp
+
+
+CMake Error at CMakeLists.txt:12 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_4.cpp
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_5.cpp
+
+
+CMake Error at CMakeLists.txt:14 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_6.cpp
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_7.cpp
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_8.cpp
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_9.cpp
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_10.cpp
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_11.cpp
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_12.cpp
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_13.cpp
+
+
+CMake Error at CMakeLists.txt:22 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_14.cpp
+
+
+CMake Error at CMakeLists.txt:23 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_15.cpp
+
+
+CMake Error at CMakeLists.txt:24 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_16.cpp
+
+
+CMake Error at CMakeLists.txt:25 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_17.cpp
+
+
+CMake Error at CMakeLists.txt:26 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_18.cpp
+
+
+CMake Error at CMakeLists.txt:27 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_19.cpp
+
+
+CMake Error at CMakeLists.txt:28 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_20.cpp
+
+
+CMake Error at CMakeLists.txt:29 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_21.cpp
+
+
+CMake Error at CMakeLists.txt:30 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_22.cpp
+
+
+CMake Error at CMakeLists.txt:31 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_23.cpp
+
+
+CMake Error at CMakeLists.txt:32 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_24.cpp
+
+
+CMake Error at CMakeLists.txt:33 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_25.cpp
+
+
+CMake Error at CMakeLists.txt:34 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_26.cpp
+
+
+CMake Error at CMakeLists.txt:35 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_27.cpp
+
+
+CMake Error at CMakeLists.txt:36 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_28.cpp
+
+
+CMake Error at CMakeLists.txt:37 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_29.cpp
+
+
+CMake Error at CMakeLists.txt:38 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_30.cpp
+
+
+CMake Error at CMakeLists.txt:39 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_31.cpp
+
+
+CMake Error at CMakeLists.txt:40 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_32.cpp
+
+
+CMake Error at CMakeLists.txt:41 (add_executable):
+  Cannot find source file:
+
+    second_partial/second_partial_33.cpp
+
+
+CMake Error at CMakeLists.txt:43 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_1_mk.cpp
+
+
+CMake Error at CMakeLists.txt:44 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_2_mk.cpp
+
+
+CMake Error at CMakeLists.txt:45 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_3_mk.cpp
+
+
+CMake Error at CMakeLists.txt:46 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_4_mk.cpp
+
+
+CMake Error at CMakeLists.txt:47 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_5_mk.cpp
+
+
+CMake Error at CMakeLists.txt:48 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_6_mk.cpp
+
+
+CMake Error at CMakeLists.txt:49 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_7_mk.cpp
+
+
+CMake Error at CMakeLists.txt:50 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_8_mk.cpp
+
+
+CMake Error at CMakeLists.txt:51 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_9_mk.cpp
+
+
+CMake Error at CMakeLists.txt:52 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_10_mk.cpp
+
+
+CMake Error at CMakeLists.txt:53 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_11_mk.cpp
+
+
+CMake Error at CMakeLists.txt:54 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_12_mk.cpp
+
+
+CMake Error at CMakeLists.txt:55 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_13_mk.cpp
+
+
+CMake Error at CMakeLists.txt:56 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_14_mk.cpp
+
+
+CMake Error at CMakeLists.txt:57 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_15_mk.cpp
+
+
+CMake Error at CMakeLists.txt:58 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_16_mk.cpp
+
+
+CMake Error at CMakeLists.txt:59 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_17_mk.cpp
+
+
+CMake Error at CMakeLists.txt:60 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_18_mk.cpp
+
+
+CMake Error at CMakeLists.txt:61 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk/second_partial_19_mk.cpp
+
+
+CMake Error at CMakeLists.txt:63 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_1.cpp
+
+
+CMake Error at CMakeLists.txt:64 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_2.cpp
+
+
+CMake Error at CMakeLists.txt:65 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_3.cpp
+
+
+CMake Error at CMakeLists.txt:66 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_4.cpp
+
+
+CMake Error at CMakeLists.txt:67 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_5.cpp
+
+
+CMake Error at CMakeLists.txt:68 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_6.cpp
+
+
+CMake Error at CMakeLists.txt:69 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_7.cpp
+
+
+CMake Error at CMakeLists.txt:70 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_8.cpp
+
+
+CMake Error at CMakeLists.txt:71 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_9.cpp
+
+
+CMake Error at CMakeLists.txt:72 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_10.cpp
+
+
+CMake Error at CMakeLists.txt:73 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_11.cpp
+
+
+CMake Error at CMakeLists.txt:74 (add_executable):
+  Cannot find source file:
+
+    second_partial_mk_extra/second_partial_mk_extra_12.cpp
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_1_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:77 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_2_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:78 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_3_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:79 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_4_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:80 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_5_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:81 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_6_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:82 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_7_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:83 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_8_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:84 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_9_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:85 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_10_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:86 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_11_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:87 (add_executable):
+  Cannot find source file:
+
+    second_partial_2023-24/second_partial_12_23-24.cpp
+
+
+CMake Error at CMakeLists.txt:89 (add_executable):
+  Cannot find source file:
+
+    second_partial_additional/last_exams_1.cpp
+
+
+CMake Error at CMakeLists.txt:90 (add_executable):
+  Cannot find source file:
+
+    second_partial_additional/last_exams_2.cpp
+
+
+CMake Error at CMakeLists.txt:91 (add_executable):
+  Cannot find source file:
+
+    second_partial_additional/last_exams_3.cpp
+
+
+CMake Error at CMakeLists.txt:92 (add_executable):
+  Cannot find source file:
+
+    second_partial_additional/last_exams_4.cpp
+
+
+CMake Error at CMakeLists.txt:94 (add_executable):
+  Cannot find source file:
+
+    second_partial_additional/fibo.cpp
+
+
+CMake Error at CMakeLists.txt:97 (add_executable):
+  Cannot find source file:
+
+    exercises/ex1.cpp
+
+
+CMake Error at CMakeLists.txt:98 (add_executable):
+  Cannot find source file:
+
+    exercises/ex2.cpp
+
+
+CMake Error at CMakeLists.txt:99 (add_executable):
+  Cannot find source file:
+
+    exercises/ex3.cpp
+
+
+CMake Error at CMakeLists.txt:100 (add_executable):
+  Cannot find source file:
+
+    exercises/ex4.cpp
+
+
+CMake Error at CMakeLists.txt:101 (add_executable):
+  Cannot find source file:
+
+    exercises/ex5.cpp
+
+
+CMake Error at CMakeLists.txt:102 (add_executable):
+  Cannot find source file:
+
+    exercises/ex6.cpp
+
+
+CMake Error at CMakeLists.txt:103 (add_executable):
+  Cannot find source file:
+
+    exercises/ex7.cpp
+
+
+CMake Error at CMakeLists.txt:104 (add_executable):
+  Cannot find source file:
+
+    exercises/ex8.cpp
+
+
+CMake Error at CMakeLists.txt:105 (add_executable):
+  Cannot find source file:
+
+    exercises/ex9.cpp
+
+
+CMake Error at CMakeLists.txt:106 (add_executable):
+  Cannot find source file:
+
+    exercises/ex10.cpp
+
+
+CMake Error at CMakeLists.txt:107 (add_executable):
+  Cannot find source file:
+
+    exercises/ex11.cpp
+
+
+CMake Error at CMakeLists.txt:108 (add_executable):
+  Cannot find source file:
+
+    exercises/ex12.cpp
+
+
+CMake Error at CMakeLists.txt:109 (add_executable):
+  Cannot find source file:
+
+    exercises/ex13.cpp
+
+
+CMake Error at CMakeLists.txt:111 (add_executable):
+  Cannot find source file:
+
+    LAB/LAB_9/lab_9_task_1.cpp
+
+
+CMake Error at CMakeLists.txt:112 (add_executable):
+  Cannot find source file:
+
+    LAB/LAB_9/lab_9_task_2.cpp
+
+
+CMake Error at CMakeLists.txt:113 (add_executable):
+  Cannot find source file:
+
+    LAB/LAB_9/lab_9_task_3.cpp
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: test
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: test2
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  No SOURCES given to target: second1
+
+
+CMake Error at CMakeLists.txt:10 (add_executable):
+  No SOURCES given to target: second2
+
+
+CMake Error at CMakeLists.txt:11 (add_executable):
+  No SOURCES given to target: second3
+
+
+CMake Error at CMakeLists.txt:12 (add_executable):
+  No SOURCES given to target: second4
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  No SOURCES given to target: second5
+
+
+CMake Error at CMakeLists.txt:14 (add_executable):
+  No SOURCES given to target: second6
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: second7
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  No SOURCES given to target: second8
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  No SOURCES given to target: second9
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  No SOURCES given to target: second10
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  No SOURCES given to target: second11
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  No SOURCES given to target: second12
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  No SOURCES given to target: second13
+
+
+CMake Error at CMakeLists.txt:22 (add_executable):
+  No SOURCES given to target: second14
+
+
+CMake Error at CMakeLists.txt:23 (add_executable):
+  No SOURCES given to target: second15
+
+
+CMake Error at CMakeLists.txt:24 (add_executable):
+  No SOURCES given to target: second16
+
+
+CMake Error at CMakeLists.txt:25 (add_executable):
+  No SOURCES given to target: second17
+
+
+CMake Error at CMakeLists.txt:26 (add_executable):
+  No SOURCES given to target: second18
+
+
+CMake Error at CMakeLists.txt:27 (add_executable):
+  No SOURCES given to target: second19
+
+
+CMake Error at CMakeLists.txt:28 (add_executable):
+  No SOURCES given to target: second20
+
+
+CMake Error at CMakeLists.txt:29 (add_executable):
+  No SOURCES given to target: second21
+
+
+CMake Error at CMakeLists.txt:30 (add_executable):
+  No SOURCES given to target: second22
+
+
+CMake Error at CMakeLists.txt:31 (add_executable):
+  No SOURCES given to target: second23
+
+
+CMake Error at CMakeLists.txt:32 (add_executable):
+  No SOURCES given to target: second24
+
+
+CMake Error at CMakeLists.txt:33 (add_executable):
+  No SOURCES given to target: second25
+
+
+CMake Error at CMakeLists.txt:34 (add_executable):
+  No SOURCES given to target: second26
+
+
+CMake Error at CMakeLists.txt:35 (add_executable):
+  No SOURCES given to target: second27
+
+
+CMake Error at CMakeLists.txt:36 (add_executable):
+  No SOURCES given to target: second28
+
+
+CMake Error at CMakeLists.txt:37 (add_executable):
+  No SOURCES given to target: second29
+
+
+CMake Error at CMakeLists.txt:38 (add_executable):
+  No SOURCES given to target: second30
+
+
+CMake Error at CMakeLists.txt:39 (add_executable):
+  No SOURCES given to target: second31
+
+
+CMake Error at CMakeLists.txt:40 (add_executable):
+  No SOURCES given to target: second32
+
+
+CMake Error at CMakeLists.txt:41 (add_executable):
+  No SOURCES given to target: second33
+
+
+CMake Error at CMakeLists.txt:43 (add_executable):
+  No SOURCES given to target: secondmk1
+
+
+CMake Error at CMakeLists.txt:44 (add_executable):
+  No SOURCES given to target: secondmk2
+
+
+CMake Error at CMakeLists.txt:45 (add_executable):
+  No SOURCES given to target: secondmk3
+
+
+CMake Error at CMakeLists.txt:46 (add_executable):
+  No SOURCES given to target: secondmk4
+
+
+CMake Error at CMakeLists.txt:47 (add_executable):
+  No SOURCES given to target: secondmk5
+
+
+CMake Error at CMakeLists.txt:48 (add_executable):
+  No SOURCES given to target: secondmk6
+
+
+CMake Error at CMakeLists.txt:49 (add_executable):
+  No SOURCES given to target: secondmk7
+
+
+CMake Error at CMakeLists.txt:50 (add_executable):
+  No SOURCES given to target: secondmk8
+
+
+CMake Error at CMakeLists.txt:51 (add_executable):
+  No SOURCES given to target: secondmk9
+
+
+CMake Error at CMakeLists.txt:52 (add_executable):
+  No SOURCES given to target: secondmk10
+
+
+CMake Error at CMakeLists.txt:53 (add_executable):
+  No SOURCES given to target: secondmk11
+
+
+CMake Error at CMakeLists.txt:54 (add_executable):
+  No SOURCES given to target: secondmk12
+
+
+CMake Error at CMakeLists.txt:55 (add_executable):
+  No SOURCES given to target: secondmk13
+
+
+CMake Error at CMakeLists.txt:56 (add_executable):
+  No SOURCES given to target: secondmk14
+
+
+CMake Error at CMakeLists.txt:57 (add_executable):
+  No SOURCES given to target: secondmk15
+
+
+CMake Error at CMakeLists.txt:58 (add_executable):
+  No SOURCES given to target: secondmk16
+
+
+CMake Error at CMakeLists.txt:59 (add_executable):
+  No SOURCES given to target: secondmk17
+
+
+CMake Error at CMakeLists.txt:60 (add_executable):
+  No SOURCES given to target: secondmk18
+
+
+CMake Error at CMakeLists.txt:61 (add_executable):
+  No SOURCES given to target: secondmk19
+
+
+CMake Error at CMakeLists.txt:63 (add_executable):
+  No SOURCES given to target: secondmkxtra1
+
+
+CMake Error at CMakeLists.txt:64 (add_executable):
+  No SOURCES given to target: secondmkxtra2
+
+
+CMake Error at CMakeLists.txt:65 (add_executable):
+  No SOURCES given to target: secondmkxtra3
+
+
+CMake Error at CMakeLists.txt:66 (add_executable):
+  No SOURCES given to target: secondmkxtra4
+
+
+CMake Error at CMakeLists.txt:67 (add_executable):
+  No SOURCES given to target: secondmkxtra5
+
+
+CMake Error at CMakeLists.txt:68 (add_executable):
+  No SOURCES given to target: secondmkxtra6
+
+
+CMake Error at CMakeLists.txt:69 (add_executable):
+  No SOURCES given to target: secondmkxtra7
+
+
+CMake Error at CMakeLists.txt:70 (add_executable):
+  No SOURCES given to target: secondmkxtra8
+
+
+CMake Error at CMakeLists.txt:71 (add_executable):
+  No SOURCES given to target: secondmkxtra9
+
+
+CMake Error at CMakeLists.txt:72 (add_executable):
+  No SOURCES given to target: secondmkxtra10
+
+
+CMake Error at CMakeLists.txt:73 (add_executable):
+  No SOURCES given to target: secondmkxtra11
+
+
+CMake Error at CMakeLists.txt:74 (add_executable):
+  No SOURCES given to target: secondmkxtra12
+
+
+CMake Error at CMakeLists.txt:76 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_1
+
+
+CMake Error at CMakeLists.txt:77 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_2
+
+
+CMake Error at CMakeLists.txt:78 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_3
+
+
+CMake Error at CMakeLists.txt:79 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_4
+
+
+CMake Error at CMakeLists.txt:80 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_5
+
+
+CMake Error at CMakeLists.txt:81 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_6
+
+
+CMake Error at CMakeLists.txt:82 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_7
+
+
+CMake Error at CMakeLists.txt:83 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_8
+
+
+CMake Error at CMakeLists.txt:84 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_9
+
+
+CMake Error at CMakeLists.txt:85 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_10
+
+
+CMake Error at CMakeLists.txt:86 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_11
+
+
+CMake Error at CMakeLists.txt:87 (add_executable):
+  No SOURCES given to target: secondPartialExam23-24_12
+
+
+CMake Error at CMakeLists.txt:89 (add_executable):
+  No SOURCES given to target: secondPartialEP1
+
+
+CMake Error at CMakeLists.txt:90 (add_executable):
+  No SOURCES given to target: secondPartialEP2
+
+
+CMake Error at CMakeLists.txt:91 (add_executable):
+  No SOURCES given to target: secondPartialEP3
+
+
+CMake Error at CMakeLists.txt:92 (add_executable):
+  No SOURCES given to target: secondPartialEP4
+
+
+CMake Error at CMakeLists.txt:94 (add_executable):
+  No SOURCES given to target: fibonacci
+
+
+CMake Error at CMakeLists.txt:97 (add_executable):
+  No SOURCES given to target: ex1
+
+
+CMake Error at CMakeLists.txt:98 (add_executable):
+  No SOURCES given to target: ex2
+
+
+CMake Error at CMakeLists.txt:99 (add_executable):
+  No SOURCES given to target: ex3
+
+
+CMake Error at CMakeLists.txt:100 (add_executable):
+  No SOURCES given to target: ex4
+
+
+CMake Error at CMakeLists.txt:101 (add_executable):
+  No SOURCES given to target: ex5
+
+
+CMake Error at CMakeLists.txt:102 (add_executable):
+  No SOURCES given to target: ex6
+
+
+CMake Error at CMakeLists.txt:103 (add_executable):
+  No SOURCES given to target: ex7
+
+
+CMake Error at CMakeLists.txt:104 (add_executable):
+  No SOURCES given to target: ex8
+
+
+CMake Error at CMakeLists.txt:105 (add_executable):
+  No SOURCES given to target: ex9
+
+
+CMake Error at CMakeLists.txt:106 (add_executable):
+  No SOURCES given to target: ex10
+
+
+CMake Error at CMakeLists.txt:107 (add_executable):
+  No SOURCES given to target: ex11
+
+
+CMake Error at CMakeLists.txt:108 (add_executable):
+  No SOURCES given to target: ex12
+
+
+CMake Error at CMakeLists.txt:109 (add_executable):
+  No SOURCES given to target: ex13
+
+
+CMake Error at CMakeLists.txt:111 (add_executable):
+  No SOURCES given to target: lab9.1
+
+
+CMake Error at CMakeLists.txt:112 (add_executable):
+  No SOURCES given to target: lab9.2
+
+
+CMake Error at CMakeLists.txt:113 (add_executable):
+  No SOURCES given to target: lab9.3
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
