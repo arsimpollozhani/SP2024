@@ -1,0 +1,4 @@
+D:/UNI/CODEBASE/SP2024/cmake-build-debug/CMakeFiles/SP2024.dir
+D:/UNI/CODEBASE/SP2024/cmake-build-debug/CMakeFiles/code.dir
+D:/UNI/CODEBASE/SP2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNI/CODEBASE/SP2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
