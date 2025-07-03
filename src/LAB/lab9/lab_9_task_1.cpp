@@ -7,8 +7,7 @@
 
 using namespace std;
 
-bool isVowel(char ch)
-{
+bool isVowel(char ch) {
     ch = toupper(ch);
     return (ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U');
 

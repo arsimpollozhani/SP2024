@@ -52,7 +52,7 @@ int main() {
 
 //ZADACA 2
 // Vnesuvas broj X i vnesuvas neodreden broj
-//celi broevi se dodeka ne se vnese nesto razlicno od broj.
+// celi broevi se dodeka ne se vnese nesto razlicno od broj.
 // Proveruvas (so funkcii sekako) kolku pati se sodrzi brojot X
 // vo sekoj od tie broevi.
 /*#include<iostream>

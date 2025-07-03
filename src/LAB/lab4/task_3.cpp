@@ -7,7 +7,7 @@ int calculate(int num, int c)
     while(num > 0) {
         int digit = num % 10;
         if(digit == c) {
-            counter++;// chaeck if digit is equal to the c numeer
+            counter++;// check if digit is equal to the c numeer
         }             // if yes increace counter
         num = num / 10; //remove one digit
     }
