@@ -116,945 +116,485 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named SP2024
+# Target rules for targets named fp-en-1
 
 # Build rule for target.
-SP2024: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SP2024
-.PHONY : SP2024
+fp-en-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-1
+.PHONY : fp-en-1
 
 # fast build rule for target.
-SP2024/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SP2024.dir\build.make CMakeFiles/SP2024.dir/build
-.PHONY : SP2024/fast
+fp-en-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-1.dir\build.make CMakeFiles/fp-en-1.dir/build
+.PHONY : fp-en-1/fast
 
 #=============================================================================
-# Target rules for targets named code
+# Target rules for targets named fp-en-2
 
 # Build rule for target.
-code: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 code
-.PHONY : code
+fp-en-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-2
+.PHONY : fp-en-2
 
 # fast build rule for target.
-code/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.dir\build.make CMakeFiles/code.dir/build
-.PHONY : code/fast
+fp-en-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-2.dir\build.make CMakeFiles/fp-en-2.dir/build
+.PHONY : fp-en-2/fast
 
 #=============================================================================
-# Target rules for targets named t1-l1
+# Target rules for targets named fp-en-3
 
 # Build rule for target.
-t1-l1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l1
-.PHONY : t1-l1
+fp-en-3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-3
+.PHONY : fp-en-3
 
 # fast build rule for target.
-t1-l1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l1.dir\build.make CMakeFiles/t1-l1.dir/build
-.PHONY : t1-l1/fast
+fp-en-3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-3.dir\build.make CMakeFiles/fp-en-3.dir/build
+.PHONY : fp-en-3/fast
 
 #=============================================================================
-# Target rules for targets named t2-l1
+# Target rules for targets named fp-en-4
 
 # Build rule for target.
-t2-l1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l1
-.PHONY : t2-l1
+fp-en-4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-4
+.PHONY : fp-en-4
 
 # fast build rule for target.
-t2-l1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l1.dir\build.make CMakeFiles/t2-l1.dir/build
-.PHONY : t2-l1/fast
+fp-en-4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-4.dir\build.make CMakeFiles/fp-en-4.dir/build
+.PHONY : fp-en-4/fast
 
 #=============================================================================
-# Target rules for targets named t3-l1
+# Target rules for targets named fp-en-5
 
 # Build rule for target.
-t3-l1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l1
-.PHONY : t3-l1
+fp-en-5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-5
+.PHONY : fp-en-5
 
 # fast build rule for target.
-t3-l1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l1.dir\build.make CMakeFiles/t3-l1.dir/build
-.PHONY : t3-l1/fast
+fp-en-5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-5.dir\build.make CMakeFiles/fp-en-5.dir/build
+.PHONY : fp-en-5/fast
 
 #=============================================================================
-# Target rules for targets named t1-l2
+# Target rules for targets named fp-en-6
 
 # Build rule for target.
-t1-l2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l2
-.PHONY : t1-l2
+fp-en-6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-6
+.PHONY : fp-en-6
 
 # fast build rule for target.
-t1-l2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l2.dir\build.make CMakeFiles/t1-l2.dir/build
-.PHONY : t1-l2/fast
+fp-en-6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-6.dir\build.make CMakeFiles/fp-en-6.dir/build
+.PHONY : fp-en-6/fast
 
 #=============================================================================
-# Target rules for targets named t2-l2
+# Target rules for targets named fp-en-7
 
 # Build rule for target.
-t2-l2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l2
-.PHONY : t2-l2
+fp-en-7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-7
+.PHONY : fp-en-7
 
 # fast build rule for target.
-t2-l2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l2.dir\build.make CMakeFiles/t2-l2.dir/build
-.PHONY : t2-l2/fast
+fp-en-7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-7.dir\build.make CMakeFiles/fp-en-7.dir/build
+.PHONY : fp-en-7/fast
 
 #=============================================================================
-# Target rules for targets named t3-l2
+# Target rules for targets named fp-en-8
 
 # Build rule for target.
-t3-l2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l2
-.PHONY : t3-l2
+fp-en-8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-8
+.PHONY : fp-en-8
 
 # fast build rule for target.
-t3-l2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l2.dir\build.make CMakeFiles/t3-l2.dir/build
-.PHONY : t3-l2/fast
+fp-en-8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-8.dir\build.make CMakeFiles/fp-en-8.dir/build
+.PHONY : fp-en-8/fast
 
 #=============================================================================
-# Target rules for targets named t1-l3
+# Target rules for targets named fp-en-9
 
 # Build rule for target.
-t1-l3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l3
-.PHONY : t1-l3
+fp-en-9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-9
+.PHONY : fp-en-9
 
 # fast build rule for target.
-t1-l3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l3.dir\build.make CMakeFiles/t1-l3.dir/build
-.PHONY : t1-l3/fast
+fp-en-9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-9.dir\build.make CMakeFiles/fp-en-9.dir/build
+.PHONY : fp-en-9/fast
 
 #=============================================================================
-# Target rules for targets named t2-l3
+# Target rules for targets named fp-en-10
 
 # Build rule for target.
-t2-l3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l3
-.PHONY : t2-l3
+fp-en-10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-10
+.PHONY : fp-en-10
 
 # fast build rule for target.
-t2-l3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l3.dir\build.make CMakeFiles/t2-l3.dir/build
-.PHONY : t2-l3/fast
+fp-en-10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-10.dir\build.make CMakeFiles/fp-en-10.dir/build
+.PHONY : fp-en-10/fast
 
 #=============================================================================
-# Target rules for targets named t3-l3
+# Target rules for targets named fp-en-11
 
 # Build rule for target.
-t3-l3: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l3
-.PHONY : t3-l3
+fp-en-11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-11
+.PHONY : fp-en-11
 
 # fast build rule for target.
-t3-l3/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l3.dir\build.make CMakeFiles/t3-l3.dir/build
-.PHONY : t3-l3/fast
+fp-en-11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-11.dir\build.make CMakeFiles/fp-en-11.dir/build
+.PHONY : fp-en-11/fast
 
 #=============================================================================
-# Target rules for targets named t1-l4
+# Target rules for targets named fp-en-12
 
 # Build rule for target.
-t1-l4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l4
-.PHONY : t1-l4
+fp-en-12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-12
+.PHONY : fp-en-12
 
 # fast build rule for target.
-t1-l4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l4.dir\build.make CMakeFiles/t1-l4.dir/build
-.PHONY : t1-l4/fast
+fp-en-12/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-12.dir\build.make CMakeFiles/fp-en-12.dir/build
+.PHONY : fp-en-12/fast
 
 #=============================================================================
-# Target rules for targets named t2-l4
+# Target rules for targets named fp-en-13
 
 # Build rule for target.
-t2-l4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l4
-.PHONY : t2-l4
+fp-en-13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fp-en-13
+.PHONY : fp-en-13
 
 # fast build rule for target.
-t2-l4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l4.dir\build.make CMakeFiles/t2-l4.dir/build
-.PHONY : t2-l4/fast
+fp-en-13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-13.dir\build.make CMakeFiles/fp-en-13.dir/build
+.PHONY : fp-en-13/fast
 
-#=============================================================================
-# Target rules for targets named t3-l4
-
-# Build rule for target.
-t3-l4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l4
-.PHONY : t3-l4
-
-# fast build rule for target.
-t3-l4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l4.dir\build.make CMakeFiles/t3-l4.dir/build
-.PHONY : t3-l4/fast
-
-#=============================================================================
-# Target rules for targets named t1-l5
-
-# Build rule for target.
-t1-l5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l5
-.PHONY : t1-l5
-
-# fast build rule for target.
-t1-l5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l5.dir\build.make CMakeFiles/t1-l5.dir/build
-.PHONY : t1-l5/fast
-
-#=============================================================================
-# Target rules for targets named t2-l5
-
-# Build rule for target.
-t2-l5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l5
-.PHONY : t2-l5
-
-# fast build rule for target.
-t2-l5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l5.dir\build.make CMakeFiles/t2-l5.dir/build
-.PHONY : t2-l5/fast
-
-#=============================================================================
-# Target rules for targets named t3-l5
-
-# Build rule for target.
-t3-l5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l5
-.PHONY : t3-l5
-
-# fast build rule for target.
-t3-l5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l5.dir\build.make CMakeFiles/t3-l5.dir/build
-.PHONY : t3-l5/fast
-
-#=============================================================================
-# Target rules for targets named t1-l6
-
-# Build rule for target.
-t1-l6: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l6
-.PHONY : t1-l6
-
-# fast build rule for target.
-t1-l6/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l6.dir\build.make CMakeFiles/t1-l6.dir/build
-.PHONY : t1-l6/fast
-
-#=============================================================================
-# Target rules for targets named t2-l6
-
-# Build rule for target.
-t2-l6: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l6
-.PHONY : t2-l6
-
-# fast build rule for target.
-t2-l6/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l6.dir\build.make CMakeFiles/t2-l6.dir/build
-.PHONY : t2-l6/fast
-
-#=============================================================================
-# Target rules for targets named t3-l6
-
-# Build rule for target.
-t3-l6: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l6
-.PHONY : t3-l6
-
-# fast build rule for target.
-t3-l6/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l6.dir\build.make CMakeFiles/t3-l6.dir/build
-.PHONY : t3-l6/fast
-
-#=============================================================================
-# Target rules for targets named t1-l7
-
-# Build rule for target.
-t1-l7: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l7
-.PHONY : t1-l7
-
-# fast build rule for target.
-t1-l7/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l7.dir\build.make CMakeFiles/t1-l7.dir/build
-.PHONY : t1-l7/fast
-
-#=============================================================================
-# Target rules for targets named t2-l7
-
-# Build rule for target.
-t2-l7: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l7
-.PHONY : t2-l7
-
-# fast build rule for target.
-t2-l7/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l7.dir\build.make CMakeFiles/t2-l7.dir/build
-.PHONY : t2-l7/fast
-
-#=============================================================================
-# Target rules for targets named t3-l7
-
-# Build rule for target.
-t3-l7: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l7
-.PHONY : t3-l7
-
-# fast build rule for target.
-t3-l7/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l7.dir\build.make CMakeFiles/t3-l7.dir/build
-.PHONY : t3-l7/fast
-
-#=============================================================================
-# Target rules for targets named t1-l8
-
-# Build rule for target.
-t1-l8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t1-l8
-.PHONY : t1-l8
-
-# fast build rule for target.
-t1-l8/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l8.dir\build.make CMakeFiles/t1-l8.dir/build
-.PHONY : t1-l8/fast
-
-#=============================================================================
-# Target rules for targets named t2-l8
-
-# Build rule for target.
-t2-l8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t2-l8
-.PHONY : t2-l8
-
-# fast build rule for target.
-t2-l8/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l8.dir\build.make CMakeFiles/t2-l8.dir/build
-.PHONY : t2-l8/fast
-
-#=============================================================================
-# Target rules for targets named t3-l8
-
-# Build rule for target.
-t3-l8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 t3-l8
-.PHONY : t3-l8
-
-# fast build rule for target.
-t3-l8/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l8.dir\build.make CMakeFiles/t3-l8.dir/build
-.PHONY : t3-l8/fast
-
-LAB/lab1/task_1.obj: LAB/lab1/task_1.cpp.obj
-.PHONY : LAB/lab1/task_1.obj
+Exams/FIRST-MIDTERM-EN/first_partial_1.obj: Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.obj
 
 # target to build an object file
-LAB/lab1/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l1.dir\build.make CMakeFiles/t1-l1.dir/LAB/lab1/task_1.cpp.obj
-.PHONY : LAB/lab1/task_1.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-1.dir\build.make CMakeFiles/fp-en-1.dir/Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.obj
 
-LAB/lab1/task_1.i: LAB/lab1/task_1.cpp.i
-.PHONY : LAB/lab1/task_1.i
+Exams/FIRST-MIDTERM-EN/first_partial_1.i: Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.i
 
 # target to preprocess a source file
-LAB/lab1/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l1.dir\build.make CMakeFiles/t1-l1.dir/LAB/lab1/task_1.cpp.i
-.PHONY : LAB/lab1/task_1.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-1.dir\build.make CMakeFiles/fp-en-1.dir/Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.i
 
-LAB/lab1/task_1.s: LAB/lab1/task_1.cpp.s
-.PHONY : LAB/lab1/task_1.s
+Exams/FIRST-MIDTERM-EN/first_partial_1.s: Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.s
 
 # target to generate assembly for a file
-LAB/lab1/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l1.dir\build.make CMakeFiles/t1-l1.dir/LAB/lab1/task_1.cpp.s
-.PHONY : LAB/lab1/task_1.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-1.dir\build.make CMakeFiles/fp-en-1.dir/Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_1.cpp.s
 
-LAB/lab1/task_2.obj: LAB/lab1/task_2.cpp.obj
-.PHONY : LAB/lab1/task_2.obj
+Exams/FIRST-MIDTERM-EN/first_partial_10.obj: Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.obj
 
 # target to build an object file
-LAB/lab1/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l1.dir\build.make CMakeFiles/t2-l1.dir/LAB/lab1/task_2.cpp.obj
-.PHONY : LAB/lab1/task_2.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-10.dir\build.make CMakeFiles/fp-en-10.dir/Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.obj
 
-LAB/lab1/task_2.i: LAB/lab1/task_2.cpp.i
-.PHONY : LAB/lab1/task_2.i
+Exams/FIRST-MIDTERM-EN/first_partial_10.i: Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.i
 
 # target to preprocess a source file
-LAB/lab1/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l1.dir\build.make CMakeFiles/t2-l1.dir/LAB/lab1/task_2.cpp.i
-.PHONY : LAB/lab1/task_2.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-10.dir\build.make CMakeFiles/fp-en-10.dir/Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.i
 
-LAB/lab1/task_2.s: LAB/lab1/task_2.cpp.s
-.PHONY : LAB/lab1/task_2.s
+Exams/FIRST-MIDTERM-EN/first_partial_10.s: Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.s
 
 # target to generate assembly for a file
-LAB/lab1/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l1.dir\build.make CMakeFiles/t2-l1.dir/LAB/lab1/task_2.cpp.s
-.PHONY : LAB/lab1/task_2.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-10.dir\build.make CMakeFiles/fp-en-10.dir/Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_10.cpp.s
 
-LAB/lab1/task_3.obj: LAB/lab1/task_3.cpp.obj
-.PHONY : LAB/lab1/task_3.obj
+Exams/FIRST-MIDTERM-EN/first_partial_11.obj: Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.obj
 
 # target to build an object file
-LAB/lab1/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l1.dir\build.make CMakeFiles/t3-l1.dir/LAB/lab1/task_3.cpp.obj
-.PHONY : LAB/lab1/task_3.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-11.dir\build.make CMakeFiles/fp-en-11.dir/Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.obj
 
-LAB/lab1/task_3.i: LAB/lab1/task_3.cpp.i
-.PHONY : LAB/lab1/task_3.i
+Exams/FIRST-MIDTERM-EN/first_partial_11.i: Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.i
 
 # target to preprocess a source file
-LAB/lab1/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l1.dir\build.make CMakeFiles/t3-l1.dir/LAB/lab1/task_3.cpp.i
-.PHONY : LAB/lab1/task_3.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-11.dir\build.make CMakeFiles/fp-en-11.dir/Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.i
 
-LAB/lab1/task_3.s: LAB/lab1/task_3.cpp.s
-.PHONY : LAB/lab1/task_3.s
+Exams/FIRST-MIDTERM-EN/first_partial_11.s: Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.s
 
 # target to generate assembly for a file
-LAB/lab1/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l1.dir\build.make CMakeFiles/t3-l1.dir/LAB/lab1/task_3.cpp.s
-.PHONY : LAB/lab1/task_3.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-11.dir\build.make CMakeFiles/fp-en-11.dir/Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_11.cpp.s
 
-LAB/lab2/task_1.obj: LAB/lab2/task_1.cpp.obj
-.PHONY : LAB/lab2/task_1.obj
+Exams/FIRST-MIDTERM-EN/first_partial_12.obj: Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.obj
 
 # target to build an object file
-LAB/lab2/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l2.dir\build.make CMakeFiles/t1-l2.dir/LAB/lab2/task_1.cpp.obj
-.PHONY : LAB/lab2/task_1.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-12.dir\build.make CMakeFiles/fp-en-12.dir/Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.obj
 
-LAB/lab2/task_1.i: LAB/lab2/task_1.cpp.i
-.PHONY : LAB/lab2/task_1.i
+Exams/FIRST-MIDTERM-EN/first_partial_12.i: Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.i
 
 # target to preprocess a source file
-LAB/lab2/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l2.dir\build.make CMakeFiles/t1-l2.dir/LAB/lab2/task_1.cpp.i
-.PHONY : LAB/lab2/task_1.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-12.dir\build.make CMakeFiles/fp-en-12.dir/Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.i
 
-LAB/lab2/task_1.s: LAB/lab2/task_1.cpp.s
-.PHONY : LAB/lab2/task_1.s
+Exams/FIRST-MIDTERM-EN/first_partial_12.s: Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.s
 
 # target to generate assembly for a file
-LAB/lab2/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l2.dir\build.make CMakeFiles/t1-l2.dir/LAB/lab2/task_1.cpp.s
-.PHONY : LAB/lab2/task_1.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-12.dir\build.make CMakeFiles/fp-en-12.dir/Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_12.cpp.s
 
-LAB/lab2/task_2.obj: LAB/lab2/task_2.cpp.obj
-.PHONY : LAB/lab2/task_2.obj
+Exams/FIRST-MIDTERM-EN/first_partial_13.obj: Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.obj
 
 # target to build an object file
-LAB/lab2/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l2.dir\build.make CMakeFiles/t2-l2.dir/LAB/lab2/task_2.cpp.obj
-.PHONY : LAB/lab2/task_2.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-13.dir\build.make CMakeFiles/fp-en-13.dir/Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.obj
 
-LAB/lab2/task_2.i: LAB/lab2/task_2.cpp.i
-.PHONY : LAB/lab2/task_2.i
+Exams/FIRST-MIDTERM-EN/first_partial_13.i: Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.i
 
 # target to preprocess a source file
-LAB/lab2/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l2.dir\build.make CMakeFiles/t2-l2.dir/LAB/lab2/task_2.cpp.i
-.PHONY : LAB/lab2/task_2.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-13.dir\build.make CMakeFiles/fp-en-13.dir/Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.i
 
-LAB/lab2/task_2.s: LAB/lab2/task_2.cpp.s
-.PHONY : LAB/lab2/task_2.s
+Exams/FIRST-MIDTERM-EN/first_partial_13.s: Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.s
 
 # target to generate assembly for a file
-LAB/lab2/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l2.dir\build.make CMakeFiles/t2-l2.dir/LAB/lab2/task_2.cpp.s
-.PHONY : LAB/lab2/task_2.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-13.dir\build.make CMakeFiles/fp-en-13.dir/Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_13.cpp.s
 
-LAB/lab2/task_3.obj: LAB/lab2/task_3.cpp.obj
-.PHONY : LAB/lab2/task_3.obj
+Exams/FIRST-MIDTERM-EN/first_partial_2.obj: Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.obj
 
 # target to build an object file
-LAB/lab2/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l2.dir\build.make CMakeFiles/t3-l2.dir/LAB/lab2/task_3.cpp.obj
-.PHONY : LAB/lab2/task_3.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-2.dir\build.make CMakeFiles/fp-en-2.dir/Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.obj
 
-LAB/lab2/task_3.i: LAB/lab2/task_3.cpp.i
-.PHONY : LAB/lab2/task_3.i
+Exams/FIRST-MIDTERM-EN/first_partial_2.i: Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.i
 
 # target to preprocess a source file
-LAB/lab2/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l2.dir\build.make CMakeFiles/t3-l2.dir/LAB/lab2/task_3.cpp.i
-.PHONY : LAB/lab2/task_3.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-2.dir\build.make CMakeFiles/fp-en-2.dir/Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.i
 
-LAB/lab2/task_3.s: LAB/lab2/task_3.cpp.s
-.PHONY : LAB/lab2/task_3.s
+Exams/FIRST-MIDTERM-EN/first_partial_2.s: Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.s
 
 # target to generate assembly for a file
-LAB/lab2/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l2.dir\build.make CMakeFiles/t3-l2.dir/LAB/lab2/task_3.cpp.s
-.PHONY : LAB/lab2/task_3.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-2.dir\build.make CMakeFiles/fp-en-2.dir/Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_2.cpp.s
 
-LAB/lab3/task_2.obj: LAB/lab3/task_2.cpp.obj
-.PHONY : LAB/lab3/task_2.obj
+Exams/FIRST-MIDTERM-EN/first_partial_3.obj: Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.obj
 
 # target to build an object file
-LAB/lab3/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l3.dir\build.make CMakeFiles/t2-l3.dir/LAB/lab3/task_2.cpp.obj
-.PHONY : LAB/lab3/task_2.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-3.dir\build.make CMakeFiles/fp-en-3.dir/Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.obj
 
-LAB/lab3/task_2.i: LAB/lab3/task_2.cpp.i
-.PHONY : LAB/lab3/task_2.i
+Exams/FIRST-MIDTERM-EN/first_partial_3.i: Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.i
 
 # target to preprocess a source file
-LAB/lab3/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l3.dir\build.make CMakeFiles/t2-l3.dir/LAB/lab3/task_2.cpp.i
-.PHONY : LAB/lab3/task_2.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-3.dir\build.make CMakeFiles/fp-en-3.dir/Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.i
 
-LAB/lab3/task_2.s: LAB/lab3/task_2.cpp.s
-.PHONY : LAB/lab3/task_2.s
+Exams/FIRST-MIDTERM-EN/first_partial_3.s: Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.s
 
 # target to generate assembly for a file
-LAB/lab3/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l3.dir\build.make CMakeFiles/t2-l3.dir/LAB/lab3/task_2.cpp.s
-.PHONY : LAB/lab3/task_2.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-3.dir\build.make CMakeFiles/fp-en-3.dir/Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_3.cpp.s
 
-LAB/lab3/task_3.obj: LAB/lab3/task_3.cpp.obj
-.PHONY : LAB/lab3/task_3.obj
+Exams/FIRST-MIDTERM-EN/first_partial_4.obj: Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.obj
 
 # target to build an object file
-LAB/lab3/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l3.dir\build.make CMakeFiles/t3-l3.dir/LAB/lab3/task_3.cpp.obj
-.PHONY : LAB/lab3/task_3.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-4.dir\build.make CMakeFiles/fp-en-4.dir/Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.obj
 
-LAB/lab3/task_3.i: LAB/lab3/task_3.cpp.i
-.PHONY : LAB/lab3/task_3.i
+Exams/FIRST-MIDTERM-EN/first_partial_4.i: Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.i
 
 # target to preprocess a source file
-LAB/lab3/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l3.dir\build.make CMakeFiles/t3-l3.dir/LAB/lab3/task_3.cpp.i
-.PHONY : LAB/lab3/task_3.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-4.dir\build.make CMakeFiles/fp-en-4.dir/Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.i
 
-LAB/lab3/task_3.s: LAB/lab3/task_3.cpp.s
-.PHONY : LAB/lab3/task_3.s
+Exams/FIRST-MIDTERM-EN/first_partial_4.s: Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.s
 
 # target to generate assembly for a file
-LAB/lab3/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l3.dir\build.make CMakeFiles/t3-l3.dir/LAB/lab3/task_3.cpp.s
-.PHONY : LAB/lab3/task_3.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-4.dir\build.make CMakeFiles/fp-en-4.dir/Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_4.cpp.s
 
-LAB/lab4/task_1.obj: LAB/lab4/task_1.cpp.obj
-.PHONY : LAB/lab4/task_1.obj
+Exams/FIRST-MIDTERM-EN/first_partial_5.obj: Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.obj
 
 # target to build an object file
-LAB/lab4/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l3.dir\build.make CMakeFiles/t1-l3.dir/LAB/lab4/task_1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l4.dir\build.make CMakeFiles/t1-l4.dir/LAB/lab4/task_1.cpp.obj
-.PHONY : LAB/lab4/task_1.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-5.dir\build.make CMakeFiles/fp-en-5.dir/Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.obj
 
-LAB/lab4/task_1.i: LAB/lab4/task_1.cpp.i
-.PHONY : LAB/lab4/task_1.i
+Exams/FIRST-MIDTERM-EN/first_partial_5.i: Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.i
 
 # target to preprocess a source file
-LAB/lab4/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l3.dir\build.make CMakeFiles/t1-l3.dir/LAB/lab4/task_1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l4.dir\build.make CMakeFiles/t1-l4.dir/LAB/lab4/task_1.cpp.i
-.PHONY : LAB/lab4/task_1.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-5.dir\build.make CMakeFiles/fp-en-5.dir/Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.i
 
-LAB/lab4/task_1.s: LAB/lab4/task_1.cpp.s
-.PHONY : LAB/lab4/task_1.s
+Exams/FIRST-MIDTERM-EN/first_partial_5.s: Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.s
 
 # target to generate assembly for a file
-LAB/lab4/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l3.dir\build.make CMakeFiles/t1-l3.dir/LAB/lab4/task_1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l4.dir\build.make CMakeFiles/t1-l4.dir/LAB/lab4/task_1.cpp.s
-.PHONY : LAB/lab4/task_1.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-5.dir\build.make CMakeFiles/fp-en-5.dir/Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_5.cpp.s
 
-LAB/lab4/task_2.obj: LAB/lab4/task_2.cpp.obj
-.PHONY : LAB/lab4/task_2.obj
+Exams/FIRST-MIDTERM-EN/first_partial_6.obj: Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.obj
 
 # target to build an object file
-LAB/lab4/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l4.dir\build.make CMakeFiles/t2-l4.dir/LAB/lab4/task_2.cpp.obj
-.PHONY : LAB/lab4/task_2.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-6.dir\build.make CMakeFiles/fp-en-6.dir/Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.obj
 
-LAB/lab4/task_2.i: LAB/lab4/task_2.cpp.i
-.PHONY : LAB/lab4/task_2.i
+Exams/FIRST-MIDTERM-EN/first_partial_6.i: Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.i
 
 # target to preprocess a source file
-LAB/lab4/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l4.dir\build.make CMakeFiles/t2-l4.dir/LAB/lab4/task_2.cpp.i
-.PHONY : LAB/lab4/task_2.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-6.dir\build.make CMakeFiles/fp-en-6.dir/Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.i
 
-LAB/lab4/task_2.s: LAB/lab4/task_2.cpp.s
-.PHONY : LAB/lab4/task_2.s
+Exams/FIRST-MIDTERM-EN/first_partial_6.s: Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.s
 
 # target to generate assembly for a file
-LAB/lab4/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l4.dir\build.make CMakeFiles/t2-l4.dir/LAB/lab4/task_2.cpp.s
-.PHONY : LAB/lab4/task_2.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-6.dir\build.make CMakeFiles/fp-en-6.dir/Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_6.cpp.s
 
-LAB/lab4/task_3.obj: LAB/lab4/task_3.cpp.obj
-.PHONY : LAB/lab4/task_3.obj
+Exams/FIRST-MIDTERM-EN/first_partial_7.obj: Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.obj
 
 # target to build an object file
-LAB/lab4/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l4.dir\build.make CMakeFiles/t3-l4.dir/LAB/lab4/task_3.cpp.obj
-.PHONY : LAB/lab4/task_3.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-7.dir\build.make CMakeFiles/fp-en-7.dir/Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.obj
 
-LAB/lab4/task_3.i: LAB/lab4/task_3.cpp.i
-.PHONY : LAB/lab4/task_3.i
+Exams/FIRST-MIDTERM-EN/first_partial_7.i: Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.i
 
 # target to preprocess a source file
-LAB/lab4/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l4.dir\build.make CMakeFiles/t3-l4.dir/LAB/lab4/task_3.cpp.i
-.PHONY : LAB/lab4/task_3.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-7.dir\build.make CMakeFiles/fp-en-7.dir/Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.i
 
-LAB/lab4/task_3.s: LAB/lab4/task_3.cpp.s
-.PHONY : LAB/lab4/task_3.s
+Exams/FIRST-MIDTERM-EN/first_partial_7.s: Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.s
 
 # target to generate assembly for a file
-LAB/lab4/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l4.dir\build.make CMakeFiles/t3-l4.dir/LAB/lab4/task_3.cpp.s
-.PHONY : LAB/lab4/task_3.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-7.dir\build.make CMakeFiles/fp-en-7.dir/Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_7.cpp.s
 
-LAB/lab5/task_1.obj: LAB/lab5/task_1.cpp.obj
-.PHONY : LAB/lab5/task_1.obj
+Exams/FIRST-MIDTERM-EN/first_partial_8.obj: Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.obj
 
 # target to build an object file
-LAB/lab5/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l5.dir\build.make CMakeFiles/t1-l5.dir/LAB/lab5/task_1.cpp.obj
-.PHONY : LAB/lab5/task_1.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-8.dir\build.make CMakeFiles/fp-en-8.dir/Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.obj
 
-LAB/lab5/task_1.i: LAB/lab5/task_1.cpp.i
-.PHONY : LAB/lab5/task_1.i
+Exams/FIRST-MIDTERM-EN/first_partial_8.i: Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.i
 
 # target to preprocess a source file
-LAB/lab5/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l5.dir\build.make CMakeFiles/t1-l5.dir/LAB/lab5/task_1.cpp.i
-.PHONY : LAB/lab5/task_1.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-8.dir\build.make CMakeFiles/fp-en-8.dir/Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.i
 
-LAB/lab5/task_1.s: LAB/lab5/task_1.cpp.s
-.PHONY : LAB/lab5/task_1.s
+Exams/FIRST-MIDTERM-EN/first_partial_8.s: Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.s
 
 # target to generate assembly for a file
-LAB/lab5/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l5.dir\build.make CMakeFiles/t1-l5.dir/LAB/lab5/task_1.cpp.s
-.PHONY : LAB/lab5/task_1.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-8.dir\build.make CMakeFiles/fp-en-8.dir/Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_8.cpp.s
 
-LAB/lab5/task_2.obj: LAB/lab5/task_2.cpp.obj
-.PHONY : LAB/lab5/task_2.obj
+Exams/FIRST-MIDTERM-EN/first_partial_9.obj: Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.obj
 
 # target to build an object file
-LAB/lab5/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l5.dir\build.make CMakeFiles/t2-l5.dir/LAB/lab5/task_2.cpp.obj
-.PHONY : LAB/lab5/task_2.cpp.obj
+Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-9.dir\build.make CMakeFiles/fp-en-9.dir/Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.obj
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.obj
 
-LAB/lab5/task_2.i: LAB/lab5/task_2.cpp.i
-.PHONY : LAB/lab5/task_2.i
-
-# target to preprocess a source file
-LAB/lab5/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l5.dir\build.make CMakeFiles/t2-l5.dir/LAB/lab5/task_2.cpp.i
-.PHONY : LAB/lab5/task_2.cpp.i
-
-LAB/lab5/task_2.s: LAB/lab5/task_2.cpp.s
-.PHONY : LAB/lab5/task_2.s
-
-# target to generate assembly for a file
-LAB/lab5/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l5.dir\build.make CMakeFiles/t2-l5.dir/LAB/lab5/task_2.cpp.s
-.PHONY : LAB/lab5/task_2.cpp.s
-
-LAB/lab5/task_3.obj: LAB/lab5/task_3.cpp.obj
-.PHONY : LAB/lab5/task_3.obj
-
-# target to build an object file
-LAB/lab5/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l5.dir\build.make CMakeFiles/t3-l5.dir/LAB/lab5/task_3.cpp.obj
-.PHONY : LAB/lab5/task_3.cpp.obj
-
-LAB/lab5/task_3.i: LAB/lab5/task_3.cpp.i
-.PHONY : LAB/lab5/task_3.i
+Exams/FIRST-MIDTERM-EN/first_partial_9.i: Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.i
 
 # target to preprocess a source file
-LAB/lab5/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l5.dir\build.make CMakeFiles/t3-l5.dir/LAB/lab5/task_3.cpp.i
-.PHONY : LAB/lab5/task_3.cpp.i
+Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-9.dir\build.make CMakeFiles/fp-en-9.dir/Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.i
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.i
 
-LAB/lab5/task_3.s: LAB/lab5/task_3.cpp.s
-.PHONY : LAB/lab5/task_3.s
-
-# target to generate assembly for a file
-LAB/lab5/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l5.dir\build.make CMakeFiles/t3-l5.dir/LAB/lab5/task_3.cpp.s
-.PHONY : LAB/lab5/task_3.cpp.s
-
-LAB/lab6/task_1.obj: LAB/lab6/task_1.cpp.obj
-.PHONY : LAB/lab6/task_1.obj
-
-# target to build an object file
-LAB/lab6/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l6.dir\build.make CMakeFiles/t1-l6.dir/LAB/lab6/task_1.cpp.obj
-.PHONY : LAB/lab6/task_1.cpp.obj
-
-LAB/lab6/task_1.i: LAB/lab6/task_1.cpp.i
-.PHONY : LAB/lab6/task_1.i
-
-# target to preprocess a source file
-LAB/lab6/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l6.dir\build.make CMakeFiles/t1-l6.dir/LAB/lab6/task_1.cpp.i
-.PHONY : LAB/lab6/task_1.cpp.i
-
-LAB/lab6/task_1.s: LAB/lab6/task_1.cpp.s
-.PHONY : LAB/lab6/task_1.s
+Exams/FIRST-MIDTERM-EN/first_partial_9.s: Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.s
 
 # target to generate assembly for a file
-LAB/lab6/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l6.dir\build.make CMakeFiles/t1-l6.dir/LAB/lab6/task_1.cpp.s
-.PHONY : LAB/lab6/task_1.cpp.s
-
-LAB/lab6/task_2.obj: LAB/lab6/task_2.cpp.obj
-.PHONY : LAB/lab6/task_2.obj
-
-# target to build an object file
-LAB/lab6/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l6.dir\build.make CMakeFiles/t2-l6.dir/LAB/lab6/task_2.cpp.obj
-.PHONY : LAB/lab6/task_2.cpp.obj
-
-LAB/lab6/task_2.i: LAB/lab6/task_2.cpp.i
-.PHONY : LAB/lab6/task_2.i
-
-# target to preprocess a source file
-LAB/lab6/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l6.dir\build.make CMakeFiles/t2-l6.dir/LAB/lab6/task_2.cpp.i
-.PHONY : LAB/lab6/task_2.cpp.i
-
-LAB/lab6/task_2.s: LAB/lab6/task_2.cpp.s
-.PHONY : LAB/lab6/task_2.s
-
-# target to generate assembly for a file
-LAB/lab6/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l6.dir\build.make CMakeFiles/t2-l6.dir/LAB/lab6/task_2.cpp.s
-.PHONY : LAB/lab6/task_2.cpp.s
-
-LAB/lab6/task_3.obj: LAB/lab6/task_3.cpp.obj
-.PHONY : LAB/lab6/task_3.obj
-
-# target to build an object file
-LAB/lab6/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l6.dir\build.make CMakeFiles/t3-l6.dir/LAB/lab6/task_3.cpp.obj
-.PHONY : LAB/lab6/task_3.cpp.obj
-
-LAB/lab6/task_3.i: LAB/lab6/task_3.cpp.i
-.PHONY : LAB/lab6/task_3.i
-
-# target to preprocess a source file
-LAB/lab6/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l6.dir\build.make CMakeFiles/t3-l6.dir/LAB/lab6/task_3.cpp.i
-.PHONY : LAB/lab6/task_3.cpp.i
-
-LAB/lab6/task_3.s: LAB/lab6/task_3.cpp.s
-.PHONY : LAB/lab6/task_3.s
-
-# target to generate assembly for a file
-LAB/lab6/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l6.dir\build.make CMakeFiles/t3-l6.dir/LAB/lab6/task_3.cpp.s
-.PHONY : LAB/lab6/task_3.cpp.s
-
-LAB/lab7/task_1.obj: LAB/lab7/task_1.cpp.obj
-.PHONY : LAB/lab7/task_1.obj
-
-# target to build an object file
-LAB/lab7/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l7.dir\build.make CMakeFiles/t1-l7.dir/LAB/lab7/task_1.cpp.obj
-.PHONY : LAB/lab7/task_1.cpp.obj
-
-LAB/lab7/task_1.i: LAB/lab7/task_1.cpp.i
-.PHONY : LAB/lab7/task_1.i
-
-# target to preprocess a source file
-LAB/lab7/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l7.dir\build.make CMakeFiles/t1-l7.dir/LAB/lab7/task_1.cpp.i
-.PHONY : LAB/lab7/task_1.cpp.i
-
-LAB/lab7/task_1.s: LAB/lab7/task_1.cpp.s
-.PHONY : LAB/lab7/task_1.s
-
-# target to generate assembly for a file
-LAB/lab7/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l7.dir\build.make CMakeFiles/t1-l7.dir/LAB/lab7/task_1.cpp.s
-.PHONY : LAB/lab7/task_1.cpp.s
-
-LAB/lab7/task_2.obj: LAB/lab7/task_2.cpp.obj
-.PHONY : LAB/lab7/task_2.obj
-
-# target to build an object file
-LAB/lab7/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l7.dir\build.make CMakeFiles/t2-l7.dir/LAB/lab7/task_2.cpp.obj
-.PHONY : LAB/lab7/task_2.cpp.obj
-
-LAB/lab7/task_2.i: LAB/lab7/task_2.cpp.i
-.PHONY : LAB/lab7/task_2.i
-
-# target to preprocess a source file
-LAB/lab7/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l7.dir\build.make CMakeFiles/t2-l7.dir/LAB/lab7/task_2.cpp.i
-.PHONY : LAB/lab7/task_2.cpp.i
-
-LAB/lab7/task_2.s: LAB/lab7/task_2.cpp.s
-.PHONY : LAB/lab7/task_2.s
-
-# target to generate assembly for a file
-LAB/lab7/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l7.dir\build.make CMakeFiles/t2-l7.dir/LAB/lab7/task_2.cpp.s
-.PHONY : LAB/lab7/task_2.cpp.s
-
-LAB/lab7/task_3.obj: LAB/lab7/task_3.cpp.obj
-.PHONY : LAB/lab7/task_3.obj
-
-# target to build an object file
-LAB/lab7/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l7.dir\build.make CMakeFiles/t3-l7.dir/LAB/lab7/task_3.cpp.obj
-.PHONY : LAB/lab7/task_3.cpp.obj
-
-LAB/lab7/task_3.i: LAB/lab7/task_3.cpp.i
-.PHONY : LAB/lab7/task_3.i
-
-# target to preprocess a source file
-LAB/lab7/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l7.dir\build.make CMakeFiles/t3-l7.dir/LAB/lab7/task_3.cpp.i
-.PHONY : LAB/lab7/task_3.cpp.i
-
-LAB/lab7/task_3.s: LAB/lab7/task_3.cpp.s
-.PHONY : LAB/lab7/task_3.s
-
-# target to generate assembly for a file
-LAB/lab7/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l7.dir\build.make CMakeFiles/t3-l7.dir/LAB/lab7/task_3.cpp.s
-.PHONY : LAB/lab7/task_3.cpp.s
-
-LAB/lab8/task_1.obj: LAB/lab8/task_1.cpp.obj
-.PHONY : LAB/lab8/task_1.obj
-
-# target to build an object file
-LAB/lab8/task_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l8.dir\build.make CMakeFiles/t1-l8.dir/LAB/lab8/task_1.cpp.obj
-.PHONY : LAB/lab8/task_1.cpp.obj
-
-LAB/lab8/task_1.i: LAB/lab8/task_1.cpp.i
-.PHONY : LAB/lab8/task_1.i
-
-# target to preprocess a source file
-LAB/lab8/task_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l8.dir\build.make CMakeFiles/t1-l8.dir/LAB/lab8/task_1.cpp.i
-.PHONY : LAB/lab8/task_1.cpp.i
-
-LAB/lab8/task_1.s: LAB/lab8/task_1.cpp.s
-.PHONY : LAB/lab8/task_1.s
-
-# target to generate assembly for a file
-LAB/lab8/task_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t1-l8.dir\build.make CMakeFiles/t1-l8.dir/LAB/lab8/task_1.cpp.s
-.PHONY : LAB/lab8/task_1.cpp.s
-
-LAB/lab8/task_2.obj: LAB/lab8/task_2.cpp.obj
-.PHONY : LAB/lab8/task_2.obj
-
-# target to build an object file
-LAB/lab8/task_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l8.dir\build.make CMakeFiles/t2-l8.dir/LAB/lab8/task_2.cpp.obj
-.PHONY : LAB/lab8/task_2.cpp.obj
-
-LAB/lab8/task_2.i: LAB/lab8/task_2.cpp.i
-.PHONY : LAB/lab8/task_2.i
-
-# target to preprocess a source file
-LAB/lab8/task_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l8.dir\build.make CMakeFiles/t2-l8.dir/LAB/lab8/task_2.cpp.i
-.PHONY : LAB/lab8/task_2.cpp.i
-
-LAB/lab8/task_2.s: LAB/lab8/task_2.cpp.s
-.PHONY : LAB/lab8/task_2.s
-
-# target to generate assembly for a file
-LAB/lab8/task_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t2-l8.dir\build.make CMakeFiles/t2-l8.dir/LAB/lab8/task_2.cpp.s
-.PHONY : LAB/lab8/task_2.cpp.s
-
-LAB/lab8/task_3.obj: LAB/lab8/task_3.cpp.obj
-.PHONY : LAB/lab8/task_3.obj
-
-# target to build an object file
-LAB/lab8/task_3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l8.dir\build.make CMakeFiles/t3-l8.dir/LAB/lab8/task_3.cpp.obj
-.PHONY : LAB/lab8/task_3.cpp.obj
-
-LAB/lab8/task_3.i: LAB/lab8/task_3.cpp.i
-.PHONY : LAB/lab8/task_3.i
-
-# target to preprocess a source file
-LAB/lab8/task_3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l8.dir\build.make CMakeFiles/t3-l8.dir/LAB/lab8/task_3.cpp.i
-.PHONY : LAB/lab8/task_3.cpp.i
-
-LAB/lab8/task_3.s: LAB/lab8/task_3.cpp.s
-.PHONY : LAB/lab8/task_3.s
-
-# target to generate assembly for a file
-LAB/lab8/task_3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\t3-l8.dir\build.make CMakeFiles/t3-l8.dir/LAB/lab8/task_3.cpp.s
-.PHONY : LAB/lab8/task_3.cpp.s
-
-codeforce.obj: codeforce.cpp.obj
-.PHONY : codeforce.obj
-
-# target to build an object file
-codeforce.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.dir\build.make CMakeFiles/code.dir/codeforce.cpp.obj
-.PHONY : codeforce.cpp.obj
-
-codeforce.i: codeforce.cpp.i
-.PHONY : codeforce.i
-
-# target to preprocess a source file
-codeforce.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.dir\build.make CMakeFiles/code.dir/codeforce.cpp.i
-.PHONY : codeforce.cpp.i
-
-codeforce.s: codeforce.cpp.s
-.PHONY : codeforce.s
-
-# target to generate assembly for a file
-codeforce.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.dir\build.make CMakeFiles/code.dir/codeforce.cpp.s
-.PHONY : codeforce.cpp.s
-
-main.obj: main.cpp.obj
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SP2024.dir\build.make CMakeFiles/SP2024.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SP2024.dir\build.make CMakeFiles/SP2024.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SP2024.dir\build.make CMakeFiles/SP2024.dir/main.cpp.s
-.PHONY : main.cpp.s
+Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fp-en-9.dir\build.make CMakeFiles/fp-en-9.dir/Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.s
+.PHONY : Exams/FIRST-MIDTERM-EN/first_partial_9.cpp.s
 
 # Help Target
 help:
@@ -1064,107 +604,58 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... SP2024
-	@echo ... code
-	@echo ... t1-l1
-	@echo ... t1-l2
-	@echo ... t1-l3
-	@echo ... t1-l4
-	@echo ... t1-l5
-	@echo ... t1-l6
-	@echo ... t1-l7
-	@echo ... t1-l8
-	@echo ... t2-l1
-	@echo ... t2-l2
-	@echo ... t2-l3
-	@echo ... t2-l4
-	@echo ... t2-l5
-	@echo ... t2-l6
-	@echo ... t2-l7
-	@echo ... t2-l8
-	@echo ... t3-l1
-	@echo ... t3-l2
-	@echo ... t3-l3
-	@echo ... t3-l4
-	@echo ... t3-l5
-	@echo ... t3-l6
-	@echo ... t3-l7
-	@echo ... t3-l8
-	@echo ... LAB/lab1/task_1.obj
-	@echo ... LAB/lab1/task_1.i
-	@echo ... LAB/lab1/task_1.s
-	@echo ... LAB/lab1/task_2.obj
-	@echo ... LAB/lab1/task_2.i
-	@echo ... LAB/lab1/task_2.s
-	@echo ... LAB/lab1/task_3.obj
-	@echo ... LAB/lab1/task_3.i
-	@echo ... LAB/lab1/task_3.s
-	@echo ... LAB/lab2/task_1.obj
-	@echo ... LAB/lab2/task_1.i
-	@echo ... LAB/lab2/task_1.s
-	@echo ... LAB/lab2/task_2.obj
-	@echo ... LAB/lab2/task_2.i
-	@echo ... LAB/lab2/task_2.s
-	@echo ... LAB/lab2/task_3.obj
-	@echo ... LAB/lab2/task_3.i
-	@echo ... LAB/lab2/task_3.s
-	@echo ... LAB/lab3/task_2.obj
-	@echo ... LAB/lab3/task_2.i
-	@echo ... LAB/lab3/task_2.s
-	@echo ... LAB/lab3/task_3.obj
-	@echo ... LAB/lab3/task_3.i
-	@echo ... LAB/lab3/task_3.s
-	@echo ... LAB/lab4/task_1.obj
-	@echo ... LAB/lab4/task_1.i
-	@echo ... LAB/lab4/task_1.s
-	@echo ... LAB/lab4/task_2.obj
-	@echo ... LAB/lab4/task_2.i
-	@echo ... LAB/lab4/task_2.s
-	@echo ... LAB/lab4/task_3.obj
-	@echo ... LAB/lab4/task_3.i
-	@echo ... LAB/lab4/task_3.s
-	@echo ... LAB/lab5/task_1.obj
-	@echo ... LAB/lab5/task_1.i
-	@echo ... LAB/lab5/task_1.s
-	@echo ... LAB/lab5/task_2.obj
-	@echo ... LAB/lab5/task_2.i
-	@echo ... LAB/lab5/task_2.s
-	@echo ... LAB/lab5/task_3.obj
-	@echo ... LAB/lab5/task_3.i
-	@echo ... LAB/lab5/task_3.s
-	@echo ... LAB/lab6/task_1.obj
-	@echo ... LAB/lab6/task_1.i
-	@echo ... LAB/lab6/task_1.s
-	@echo ... LAB/lab6/task_2.obj
-	@echo ... LAB/lab6/task_2.i
-	@echo ... LAB/lab6/task_2.s
-	@echo ... LAB/lab6/task_3.obj
-	@echo ... LAB/lab6/task_3.i
-	@echo ... LAB/lab6/task_3.s
-	@echo ... LAB/lab7/task_1.obj
-	@echo ... LAB/lab7/task_1.i
-	@echo ... LAB/lab7/task_1.s
-	@echo ... LAB/lab7/task_2.obj
-	@echo ... LAB/lab7/task_2.i
-	@echo ... LAB/lab7/task_2.s
-	@echo ... LAB/lab7/task_3.obj
-	@echo ... LAB/lab7/task_3.i
-	@echo ... LAB/lab7/task_3.s
-	@echo ... LAB/lab8/task_1.obj
-	@echo ... LAB/lab8/task_1.i
-	@echo ... LAB/lab8/task_1.s
-	@echo ... LAB/lab8/task_2.obj
-	@echo ... LAB/lab8/task_2.i
-	@echo ... LAB/lab8/task_2.s
-	@echo ... LAB/lab8/task_3.obj
-	@echo ... LAB/lab8/task_3.i
-	@echo ... LAB/lab8/task_3.s
-	@echo ... codeforce.obj
-	@echo ... codeforce.i
-	@echo ... codeforce.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... fp-en-1
+	@echo ... fp-en-10
+	@echo ... fp-en-11
+	@echo ... fp-en-12
+	@echo ... fp-en-13
+	@echo ... fp-en-2
+	@echo ... fp-en-3
+	@echo ... fp-en-4
+	@echo ... fp-en-5
+	@echo ... fp-en-6
+	@echo ... fp-en-7
+	@echo ... fp-en-8
+	@echo ... fp-en-9
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_1.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_1.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_1.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_10.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_10.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_10.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_11.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_11.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_11.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_12.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_12.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_12.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_13.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_13.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_13.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_2.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_2.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_2.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_3.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_3.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_3.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_4.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_4.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_4.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_5.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_5.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_5.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_6.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_6.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_6.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_7.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_7.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_7.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_8.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_8.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_8.s
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_9.obj
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_9.i
+	@echo ... Exams/FIRST-MIDTERM-EN/first_partial_9.s
 .PHONY : help
 
 

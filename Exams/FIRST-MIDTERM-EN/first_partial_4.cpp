@@ -23,36 +23,36 @@
 using namespace std;
 
 int main() {
- float points, maxPoints, N , grade = 0;
- float percentage;
- string fail;
- cin >> N;
+    float points, maxPoints, N, grade = 0;
+    float percentage;
+    string fail;
+    cin >> N;
 
- for(int i = 0; i < N; i++) {
-      cin >> points;
-      cin >> maxPoints;
-  percentage = (points / maxPoints)*100;
-  if(percentage < 50) {
-       cout << percentage << " FAIL" << endl;
-  } else if (percentage < 60) {
-       grade = 6;
-       cout << percentage << " " << grade << endl;
-  }else if (percentage < 70) {
-       grade = 7;
-       cout << percentage << " " << grade << endl;
-  }else if (percentage < 80) {
-      grade = 8;
-       cout << percentage << " " << grade << endl;
-  }else if (percentage < 90) {
-       grade = 9;
-       cout << percentage << " " << grade << endl;
-  } else if (percentage < 100) {
-       grade = 10;
-       cout << percentage << " " << grade << endl;
-  }
- }
+    for (int i = 0; i < N; i++) {
+        cin >> points;
+        cin >> maxPoints;
+        percentage = (points / maxPoints) * 100;
+        if (percentage < 50) {
+            cout << percentage << " FAIL" << endl;
+        } else if (percentage < 60) {
+            grade = 6;
+            cout << percentage << " " << grade << endl;
+        } else if (percentage < 70) {
+            grade = 7;
+            cout << percentage << " " << grade << endl;
+        } else if (percentage < 80) {
+            grade = 8;
+            cout << percentage << " " << grade << endl;
+        } else if (percentage < 90) {
+            grade = 9;
+            cout << percentage << " " << grade << endl;
+        } else if (percentage < 100) {
+            grade = 10;
+            cout << percentage << " " << grade << endl;
+        }
+    }
 
- return 0;
+    return 0;
 }
 
 

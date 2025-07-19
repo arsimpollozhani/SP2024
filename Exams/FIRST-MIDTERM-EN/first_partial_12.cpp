@@ -11,7 +11,7 @@
 #include<cmath>
 using namespace std;
 
-int moveDigit (int number) {
+int moveDigit(int number) {
     int count = 0;
     int digit = number % 10;
     int remaining = number /= 10;
@@ -19,7 +19,7 @@ int moveDigit (int number) {
         remaining = remaining / 10;
         count++;
     }
-    int newNumber =  digit * pow(10, count) + number;
+    int newNumber = digit * pow(10, count) + number;
     return newNumber;
 }
 
@@ -32,11 +32,10 @@ int main() {
     for (int i = 1; i <= n; i++) {
         cin >> num1 >> num2;
         if (moveDigit(num1) > num2) {
-            cout << "YES" <<endl;
+            cout << "YES" << endl;
         } else {
-            cout << "NO" <<endl;
+            cout << "NO" << endl;
         }
-
     }
     return 0;
 }

@@ -2,16 +2,16 @@
 // Created by win11pro on 11/9/2024.
 //
 //*********************************
- // QUESTION 13
+// QUESTION 13
 //*********************************
 #include<iostream>
 
 using namespace std;
 
-bool sweetNumber (int number) {
-    while(number > 0) {
+bool sweetNumber(int number) {
+    while (number > 0) {
         int digit = number % 10;
-        if(digit % 2 != 0) {
+        if (digit % 2 != 0) {
             return false;
         }
         number = number / 10;
@@ -24,13 +24,13 @@ int main() {
     cin >> number;
     cout << sweetNumber(number)<<endl;
     */
-    int m,n;
+    int m, n;
     cin >> m >> n;
     int smallestEvenDigitNumber = -1;
-    for(int i = m; i <= n; i++) {
-        if(sweetNumber(i)) {
+    for (int i = m; i <= n; i++) {
+        if (sweetNumber(i)) {
             smallestEvenDigitNumber = i; //because we start from m which is the smallest number
-            break;                //in the range and when the sweetNumber is true print the smallest and exit the if
+            break; //in the range and when the sweetNumber is true print the smallest and exit the if
         }
     }
     if (smallestEvenDigitNumber != -1) {

@@ -14,22 +14,21 @@ int sumOfAngles(int a, int b, int c) {
 }
 
 int main() {
- int a, b, c;
- cin >> a >> b >> c;
- // test cout << sumOfAngles(a, b, c) << endl;
- if(sumOfAngles(a,b,c) != 180) {
-    cout << "NO" << endl;
- } else {
-    cout << "YES" << endl;
-  if (a > 90|| b > 90 || c > 90 ) {
-    cout << "OBTUSE"<<endl;
-  } else if(a == 90 || b == 90 || c == 90) {
-    cout << "RIGHT"<<endl;
-  } else  {
-    cout << "ACUTE"<<endl;
-  }
- }
+    int a, b, c;
+    cin >> a >> b >> c;
+    // test cout << sumOfAngles(a, b, c) << endl;
+    if (sumOfAngles(a, b, c) != 180) {
+        cout << "NO" << endl;
+    } else {
+        cout << "YES" << endl;
+        if (a > 90 || b > 90 || c > 90) {
+            cout << "OBTUSE" << endl;
+        } else if (a == 90 || b == 90 || c == 90) {
+            cout << "RIGHT" << endl;
+        } else {
+            cout << "ACUTE" << endl;
+        }
+    }
 
- return 0;
+    return 0;
 }
-

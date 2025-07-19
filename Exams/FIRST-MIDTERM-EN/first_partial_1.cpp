@@ -19,32 +19,32 @@
 using namespace std;
 
 int main() {
- char ch;
- int sum = 0, number = 0;
- bool inNumber = false;
- while (cin >> ch && ch != '!') {
-   if (ch >= '0' && ch <= '9') {
-    number = number * 10 + (ch - '0'); //eg. if ch = 3 ; number = 0*10+3=3
-    inNumber = true;                   // next ch=4; number=3*10+4=34
-   }else {
-      if(inNumber && number < 100) {
-       sum = sum + number;;
-      }
-      number = 0;
-      inNumber = false;
-     }
-  }
+    char ch;
+    int sum = 0, number = 0;
+    bool inNumber = false;
+    while (cin >> ch && ch != '!') {
+        if (ch >= '0' && ch <= '9') {
+            number = number * 10 + (ch - '0'); //eg. if ch = 3 ; number = 0*10+3=3
+            inNumber = true; // next ch=4; number=3*10+4=34
+        } else {
+            if (inNumber && number < 100) {
+                sum = sum + number;;
+            }
+            number = 0;
+            inNumber = false;
+        }
+    }
 
- if(inNumber && number < 100) {
-  sum = sum + number;
- }
- cout << sum << endl;
- return 0;
+    if (inNumber && number < 100) {
+        sum = sum + number;
+    }
+    cout << sum << endl;
+    return 0;
 }
 
 
 //******************************
- //QUESTION 2
+//QUESTION 2
 // *****************************
 /*
 #include<iostream>
@@ -234,11 +234,6 @@ int main() {
 }*/
 
 
-
-
-
-
-
 //********************************************
 //QUESTION 5
 //********************************************
@@ -284,7 +279,6 @@ int main() {
  }
  return 0;
 }*/
-
 
 
 //********************************************
@@ -439,8 +433,6 @@ int main() {
 }*/
 
 
-
-
 //*********************************
 //QUESTION 8
 //*********************************
@@ -563,7 +555,6 @@ int main() {
 */
 
 
-
 //**************************
 //QUESTION 12
 //************************
@@ -600,9 +591,6 @@ int main() {
   }
  }
 }*/
-
-
-
 
 
 //*********************************

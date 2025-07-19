@@ -49,10 +49,10 @@ int main() {
 
 using namespace std;
 
-int sumOfDivisors (int number) {
+int sumOfDivisors(int number) {
     int sum = 0;
     for (int divisor = 1; divisor <= number / 2; ++divisor) {
-        if(number % divisor == 0) {
+        if (number % divisor == 0) {
             sum += divisor;
         }
     }
@@ -67,7 +67,7 @@ int main() {
     for (int i = n - 1; i > 0; --i) {
         //cout << i << "->"<<sumOfDivisors(i) << endl;
         int sum = sumOfDivisors(i);
-        if(sum > maxSumOfDivisors ) {
+        if (sum > maxSumOfDivisors) {
             maxSumOfDivisors = sum;
             maxNumber = i;
         }

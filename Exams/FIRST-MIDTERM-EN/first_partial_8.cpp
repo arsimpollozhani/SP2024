@@ -24,10 +24,10 @@ int reverseMiddle(int n) {
     int reverse = 0;
     bool foundReverse = false;
     n /= 10;
-    while(n >= 10) {
+    while (n >= 10) {
         int digit = n % 10;
         n /= 10;
-        if(n > 0) {
+        if (n > 0) {
             reverse = reverse * 10 + digit;
             foundReverse = true;
         }
@@ -44,15 +44,16 @@ int main() {
         //TEST cout << firstDigit(i) << " - "<< lastDigit(i) << endl;
         int first = firstDigit(i);
         int last = lastDigit(i);
-        int firstAndLastNum = first+last;
+        int firstAndLastNum = first + last;
         //TEST cout << reverseMiddle(i) << endl;
         int reverse = reverseMiddle(i);
-        if(reverse == 0) {
+        if (reverse == 0) {
             continue;
         }
 
-        if(reverse % firstAndLastNum == 0) {
-            cout << i << " -> (" << reverse << " == " << "(" <<last << " + " << first << ")" <<" * " << reverse / firstAndLastNum << ")"<<endl;
+        if (reverse % firstAndLastNum == 0) {
+            cout << i << " -> (" << reverse << " == " << "(" << last << " + " << first << ")" << " * " << reverse /
+                    firstAndLastNum << ")" << endl;
             count++;
         }
     }

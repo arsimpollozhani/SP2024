@@ -24,28 +24,28 @@ Input	Result
 using namespace std;
 
 int main() {
- int number;
- cin >> number;
+    int number;
+    cin >> number;
 
- if (number <= 9){
-     cout << "The number is invalid";
-     return 0;
- }
- for (int i = number - 1; i > 9; --i) {
-       int temp = i;
-       int reverse = 0 , count = 0;
-    while (temp > 0) {
-       int digit = temp % 10;
-       reverse = reverse * 10 + digit;
-       temp = temp / 10;
-       count++;
-  }
+    if (number <= 9) {
+        cout << "The number is invalid";
+        return 0;
+    }
+    for (int i = number - 1; i > 9; --i) {
+        int temp = i;
+        int reverse = 0, count = 0;
+        while (temp > 0) {
+            int digit = temp % 10;
+            reverse = reverse * 10 + digit;
+            temp = temp / 10;
+            count++;
+        }
 
-  if (reverse % count == 0) {
-       cout << i << endl;
-       return 0;
-  }
- }
+        if (reverse % count == 0) {
+            cout << i << endl;
+            return 0;
+        }
+    }
 
- return 0;
+    return 0;
 }
